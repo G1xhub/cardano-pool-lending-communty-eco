@@ -1,0 +1,13 @@
+name = "G1xHub/lending"
+version = "8.0.0"
+compiler = "v1.1.19"
+plutus = "v3"
+license = "Apache-2.0"
+description = "Cardano Lending Pool, Treasury, Staking, Orderbook Smart Contract Template"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "v1.1.0"
+source = "github"
+
+[config]
