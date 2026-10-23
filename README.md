@@ -4,7 +4,7 @@
 
 A full-featured lending protocol smart contract template for Cardano, written in [Aiken](https://aiken-lang.org/) and targeting Plutus V3.
 
-Developed by [grae.one](https://grae.one) ([utxotools.io](https://utxotools.io))
+Developed by [grae.one](https://grae.one)
 
 ## Overview
 
